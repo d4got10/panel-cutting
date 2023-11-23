@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanelCutting", "PanelCutting\PanelCutting.csproj", "{E1E7A176-1DB4-4985-8FD6-3CAD37694F7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanelCutting.API", "PanelCutting.API\PanelCutting.API.csproj", "{FC9F367A-43B3-42C1-B5A9-99E245ACD3C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanelCutting.Tests", "PanelCutting.Tests\PanelCutting.Tests.csproj", "{8F74AA6C-D3EA-415B-B6CE-1618176175A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1E7A176-1DB4-4985-8FD6-3CAD37694F7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E7A176-1DB4-4985-8FD6-3CAD37694F7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E7A176-1DB4-4985-8FD6-3CAD37694F7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E7A176-1DB4-4985-8FD6-3CAD37694F7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC9F367A-43B3-42C1-B5A9-99E245ACD3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC9F367A-43B3-42C1-B5A9-99E245ACD3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC9F367A-43B3-42C1-B5A9-99E245ACD3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9F367A-43B3-42C1-B5A9-99E245ACD3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F74AA6C-D3EA-415B-B6CE-1618176175A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F74AA6C-D3EA-415B-B6CE-1618176175A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F74AA6C-D3EA-415B-B6CE-1618176175A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F74AA6C-D3EA-415B-B6CE-1618176175A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
