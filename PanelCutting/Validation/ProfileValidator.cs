@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace PanelCutting;
+namespace PanelCutting.Validation;
 
 internal static class ProfileValidator
 {
